@@ -20,7 +20,7 @@ function extensionConfig() {
 }
 
 function extension() {
-    return vscode.extensions.getExtension('tintinweb.solidity-visual-auditor');
+    return vscode.extensions.getExtension('alexbassss.free-ton-solidity-visual-developer');
 }
 
 module.exports = {

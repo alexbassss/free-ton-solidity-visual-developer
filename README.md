@@ -58,12 +58,6 @@ Semantic highlighting and solidity insights for passive security awareness. Most
 * audit annotations/bookmarks - `@audit - <msg>` `@audit-ok - <msg>` (see below)
 * generic interface for importing external scanner results - cdili json format (see below)
 
-##### Code Augmentation
-* Hover over Ethereum Account addresses to download the byte-code, source-code or open it in the browser
-* Hover over ASM instructions to show their signatures
-* Hover over keywords to show basic Security Notes
-* Hover over StateVar's to show declaration information
-
 ##### Views
 
 * Cockpit View

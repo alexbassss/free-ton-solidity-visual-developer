@@ -14,6 +14,9 @@ This extension contributes semantic highlighting, a detailed class outline, adva
 
 You can customize this extension for your needs! Show/Hide/Enable/Disable features in `preferences → Settings → Solidity Visual Developer: solidity-va.*`
 
+Because our solution is the [Solidity Visual Developer](https://github.com/ConsenSys/vscode-solidity-auditor) clone, you can also get all feauteres of this solution. 
+See details description on their github.
+
 # Installation
 
 **Method 1:** Install by going to [Visual Studio Market Place](https://marketplace.visualstudio.com/items?itemName=alexbassss.free-ton-solidity-visual-developer) and click  `Install`. 

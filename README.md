@@ -17,7 +17,7 @@ You can get Free Ton solidity code examples for testing at this page: https://gi
 You can customize this extension for your needs! Show/Hide/Enable/Disable features in `preferences → Settings → Solidity Visual Developer: solidity-va.*`
 
 Because our solution is the [Solidity Visual Developer](https://github.com/ConsenSys/vscode-solidity-auditor) clone, you can also get all feauteres of this solution. 
-See details description on their github.
+See details description on their [github](https://github.com/ConsenSys/vscode-solidity-auditor).
 
 # Installation
 

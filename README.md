@@ -12,6 +12,8 @@ It's use Base Grammar for Solidity: [vscode-solidity](https://github.com/juanfra
 
 This extension contributes semantic highlighting, a detailed class outline, advanced Free TON Solidity code insights to Visual Studio Code.
 
+You can get Free Ton solidity code examples for testing at this page: https://github.com/tonlabs/samples/tree/master/solidity
+
 You can customize this extension for your needs! Show/Hide/Enable/Disable features in `preferences → Settings → Solidity Visual Developer: solidity-va.*`
 
 Because our solution is the [Solidity Visual Developer](https://github.com/ConsenSys/vscode-solidity-auditor) clone, you can also get all feauteres of this solution. 
